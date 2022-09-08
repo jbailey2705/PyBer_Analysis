@@ -5,6 +5,7 @@
 For this project will will be using the following programs: - Anaconda - Python - Jupitor Program (Pandas)
 
 [city_data.csv](https://github.com/jbailey2705/PyBer_Analysis/files/9531139/city_data.csv)
+
 [ride_data.csv](https://github.com/jbailey2705/PyBer_Analysis/files/9531140/ride_data.csv)
 
 
@@ -17,7 +18,8 @@ determine ![PyBer_fare_summary](https://user-images.githubusercontent.com/109354
 Data in the PyBer_fare_summary shows that the money made by the services was steady based on the area the drivers were servicing. 
 
 Information in the DataFram by City Type illustates:
-- # of total rides
+
+- Total Rides
 - Total Drivers
 - Total Fares
 - Averages of Fares per Ride
